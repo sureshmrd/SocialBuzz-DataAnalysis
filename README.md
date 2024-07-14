@@ -23,7 +23,11 @@
 ![download](https://github.com/user-attachments/assets/4d89ed9a-a2f2-4d7f-9b7d-333a63eb2947)
 
 ![download1](https://github.com/user-attachments/assets/459f1af4-30c4-455a-8310-94006e9813d7)
+## Contributing
+I welcome contributors to improve Social Buzz!
 
+## Contact
+For feedback or queries , please reach out to me at [sureshmrd2002@gmail.com].
 
 
 
