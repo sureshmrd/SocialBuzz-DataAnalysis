@@ -15,5 +15,15 @@
 - **Python (pandas)**: Used for data analysis and processing.
 - **PowerPoint**: Used for presenting the findings and insights.
 
+## Final Insights
+- Total unique Categories are : 16
+- Top 5 Categories are listed as : Animals , Science , Healthy Eating , Technology , Food.
+- There is a Food and Healthy Eating in the top-5 categories ,and Healthy Eating ranks higher than Food , which may indicates that the audience within your user base are more align towards healthy food.
+
+![download](https://github.com/user-attachments/assets/4d89ed9a-a2f2-4d7f-9b7d-333a63eb2947)
+
+![download1](https://github.com/user-attachments/assets/459f1af4-30c4-455a-8310-94006e9813d7)
+
+
 
 
